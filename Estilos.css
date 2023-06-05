@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin: 30px;
+	width: 1000px;
+	margin: 0px auto;
+}
+
+#cabecera {
+	padding: 10px;
+	background-color: #60C0D8;
+}
+#piepagina {
+	clear:both;
+	padding: 10px;
+	background-color: #60c0d8;
+}
+#piepagina h5 {
+	color: #fff;
+	font-size: 12px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+.cuadros {
+	float: left;
+	width: 240px;	
+	border: 1px lightgray solid;
+	border-radius: 3px;
+	background-color: white;
+	text-align: center;
+	padding: 5px 5px 22px 5px;
+	box-shadow: 0px 0px 4px gray;
+}
+.cuadros {
+	float: left;
+	width: left;	
+	border: 1px lightgray solid;
+	border-radius: 3px;
+	background-color: white;
+	text-align: center;
+	padding: 5px 5px 22px 5px;
+	box-shadow: 0px 0px 4px gray;
+}
+
+
+#cuadro2{margin:0 112px 0 112px}
+
+
